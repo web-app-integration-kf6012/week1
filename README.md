@@ -1,4 +1,4 @@
 # week1
 
-- [] hello
-- [] something else
+- [ ] hello
+- [ ] something else
